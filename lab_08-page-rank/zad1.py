@@ -1,5 +1,4 @@
 import numpy as np
-import matplotlib.pyplot as plt
 from os.path import isfile
 from util import power_iteration, scale_rows
 
